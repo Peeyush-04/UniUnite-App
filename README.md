@@ -1,2 +1,2 @@
-# UniUnite-App
- 
+# UniUnite
+ A working social media app model
